@@ -18,7 +18,7 @@ public class AnnotateSoapHttpHandler implements ProxyRequestHandler/*, ProxyResp
     @Override
     public ProxyRequestReceivedAction handleRequestReceived(InterceptedRequest interceptedRequest) {
 
-        handleRequest(interceptedRequest);
+        //handleRequest(interceptedRequest);
         return ProxyRequestReceivedAction.continueWith(interceptedRequest);
     }
 
