@@ -1,2 +1,2 @@
-rootProject.name = "MontoyaAnnotateSoapMethod"
+rootProject.name = "montoyaannotatesoapmethod"
 
